@@ -1,0 +1,66 @@
+dbn_7L_60_5m_6alpha
+epoch 1/10. Took 25.3028 seconds. Mean squared error on training set is NaN
+epoch 2/10. Took 25.5066 seconds. Mean squared error on training set is NaN
+epoch 3/10. Took 24.3236 seconds. Mean squared error on training set is NaN
+epoch 4/10. Took 24.5919 seconds. Mean squared error on training set is NaN
+epoch 5/10. Took 24.4664 seconds. Mean squared error on training set is NaN
+epoch 6/10. Took 24.341 seconds. Mean squared error on training set is NaN
+epoch 7/10. Took 24.4654 seconds. Mean squared error on training set is NaN
+epoch 8/10. Took 24.2869 seconds. Mean squared error on training set is NaN
+epoch 9/10. Took 24.1846 seconds. Mean squared error on training set is NaN
+epoch 10/10. Took 23.986 seconds. Mean squared error on training set is NaN
+dbn_4L_60_5m_6alpha
+epoch 1/10. Took 15.922 seconds. Mean squared error on training set is NaN
+epoch 2/10. Took 16.2054 seconds. Mean squared error on training set is NaN
+epoch 3/10. Took 16.1798 seconds. Mean squared error on training set is NaN
+epoch 4/10. Took 15.9217 seconds. Mean squared error on training set is NaN
+epoch 5/10. Took 16.3251 seconds. Mean squared error on training set is NaN
+epoch 6/10. Took 16.3766 seconds. Mean squared error on training set is NaN
+epoch 7/10. Took 16.2087 seconds. Mean squared error on training set is NaN
+epoch 8/10. Took 15.7483 seconds. Mean squared error on training set is NaN
+epoch 9/10. Took 16.1387 seconds. Mean squared error on training set is NaN
+epoch 10/10. Took 16.3555 seconds. Mean squared error on training set is NaN
+dbn_7L_40_5m_6alpha
+epoch 1/10. Took 21.5015 seconds. Mean squared error on training set is 5911.4817
+epoch 2/10. Took 21.5819 seconds. Mean squared error on training set is 7.7733e-08
+epoch 3/10. Took 21.7123 seconds. Mean squared error on training set is 7.7692e-08
+epoch 4/10. Took 21.6358 seconds. Mean squared error on training set is 7.7592e-08
+epoch 5/10. Took 21.579 seconds. Mean squared error on training set is 7.7385e-08
+epoch 6/10. Took 21.7848 seconds. Mean squared error on training set is 7.7593e-08
+epoch 7/10. Took 21.4277 seconds. Mean squared error on training set is 7.7367e-08
+epoch 8/10. Took 21.7847 seconds. Mean squared error on training set is 7.7664e-08
+epoch 9/10. Took 21.6853 seconds. Mean squared error on training set is 7.7863e-08
+epoch 10/10. Took 21.6767 seconds. Mean squared error on training set is 7.7513e-08
+dbn_4L_40_5m_6alpha
+epoch 1/10. Took 14.5241 seconds. Mean squared error on training set is 1496.6994
+epoch 2/10. Took 14.5208 seconds. Mean squared error on training set is 7.7321e-08
+epoch 3/10. Took 14.4551 seconds. Mean squared error on training set is 7.7581e-08
+epoch 4/10. Took 14.3313 seconds. Mean squared error on training set is 7.7746e-08
+epoch 5/10. Took 14.8063 seconds. Mean squared error on training set is 7.7789e-08
+epoch 6/10. Took 14.5853 seconds. Mean squared error on training set is 7.7664e-08
+epoch 7/10. Took 14.7036 seconds. Mean squared error on training set is 7.7396e-08
+epoch 8/10. Took 14.4266 seconds. Mean squared error on training set is 7.7495e-08
+epoch 9/10. Took 14.5621 seconds. Mean squared error on training set is 7.7579e-08
+epoch 10/10. Took 14.1678 seconds. Mean squared error on training set is 7.7793e-08
+dbn_7L_20_5m_6alpha
+epoch 1/10. Took 17.887 seconds. Mean squared error on training set is 14812.167
+epoch 2/10. Took 17.7744 seconds. Mean squared error on training set is 7.767e-08
+epoch 3/10. Took 18.0743 seconds. Mean squared error on training set is 7.7508e-08
+epoch 4/10. Took 17.7399 seconds. Mean squared error on training set is 7.7552e-08
+epoch 5/10. Took 17.7289 seconds. Mean squared error on training set is 7.7411e-08
+epoch 6/10. Took 18.2006 seconds. Mean squared error on training set is 7.7445e-08
+epoch 7/10. Took 17.9821 seconds. Mean squared error on training set is 7.7679e-08
+epoch 8/10. Took 17.7393 seconds. Mean squared error on training set is 7.7404e-08
+epoch 9/10. Took 18.0402 seconds. Mean squared error on training set is 7.7566e-08
+epoch 10/10. Took 18.1385 seconds. Mean squared error on training set is 7.7438e-08
+dbn_4L_20_5m_6alpha
+epoch 1/10. Took 11.5597 seconds. Mean squared error on training set is 1472.8212
+epoch 2/10. Took 11.6239 seconds. Mean squared error on training set is 7.7744e-08
+epoch 3/10. Took 11.6124 seconds. Mean squared error on training set is 7.7528e-08
+epoch 4/10. Took 11.4548 seconds. Mean squared error on training set is 7.7853e-08
+epoch 5/10. Took 11.5268 seconds. Mean squared error on training set is 7.7549e-08
+epoch 6/10. Took 11.5895 seconds. Mean squared error on training set is 7.7567e-08
+epoch 7/10. Took 11.7517 seconds. Mean squared error on training set is 7.7589e-08
+epoch 8/10. Took 11.6221 seconds. Mean squared error on training set is 7.7525e-08
+epoch 9/10. Took 11.4772 seconds. Mean squared error on training set is 7.7536e-08
+epoch 10/10. Took 11.5791 seconds. Mean squared error on training set is 7.7588e-08
